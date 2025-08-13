@@ -1,4 +1,4 @@
-# Unity generated
+# Unity生成的文件
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,17 +6,62 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
 
-# Visual Studio cache
-.vs/
-*.csproj
-*.sln
-
-# Asset meta data
+# Unity资产元数据
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
 
-# OS generated
+# Unity3D生成的文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Visual Studio缓存目录
+.vs/
+
+# Gradle缓存目录
+.gradle/
+
+# 自动生成的VS/MD/Consulo解决方案和项目文件
+ExportedObj/
+.consulo/
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS生成的
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
 Thumbs.db
+
+# 崩溃报告
+Assets/CrashReport*
+
+# 大文件文件夹（如果有的话）
+/[Aa]ssets/StreamingAssets*
