@@ -5,6 +5,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 341889576265784405, guid: e31dd20ae9a494c4eb45764ea74a3155,
@@ -15,11 +16,6 @@ PrefabInstance:
     - target: {fileID: 341889576265784405, guid: e31dd20ae9a494c4eb45764ea74a3155,
         type: 3}
       propertyPath: InitialModule.startSpeed.scalar
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 341889576265784405, guid: e31dd20ae9a494c4eb45764ea74a3155,
-        type: 3}
-      propertyPath: InitialModule.startLifetime.scalar
       value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 341889576265784405, guid: e31dd20ae9a494c4eb45764ea74a3155,
@@ -37,10 +33,20 @@ PrefabInstance:
       propertyPath: EmissionModule.rateOverTime.scalar
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 341889576265784405, guid: e31dd20ae9a494c4eb45764ea74a3155,
+        type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 764057726837793369, guid: e31dd20ae9a494c4eb45764ea74a3155,
         type: 3}
       propertyPath: m_Name
-      value: CFXR4 Teleporter Rings Upwards HDR Purple (Small)
+      value: CFXR4 Teleporter Rings Upwards (HDR, Purple, Small)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
         type: 3}
@@ -59,6 +65,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
         type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
+        type: 3}
       propertyPath: m_LocalRotation.x
       value: -0.7071068
       objectReference: {fileID: 0}
@@ -70,16 +81,6 @@ PrefabInstance:
     - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
-        type: 3}
-      propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5118655404553217541, guid: e31dd20ae9a494c4eb45764ea74a3155,
@@ -97,5 +98,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8691685741035100865, guid: e31dd20ae9a494c4eb45764ea74a3155,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e823cd5b5d27c0f4b8256e7c12ee3e6d, type: 2}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31dd20ae9a494c4eb45764ea74a3155, type: 3}

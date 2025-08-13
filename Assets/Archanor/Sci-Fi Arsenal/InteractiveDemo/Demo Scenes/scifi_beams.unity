@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &4
 LightmapSettings:
@@ -125,7 +124,8 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 --- !u!114 &166030772 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 11483034, guid: 80abf74206f6de54cbb1e7f157b5c0e6, type: 3}
+  m_CorrespondingSourceObject: {fileID: 11483034, guid: 80abf74206f6de54cbb1e7f157b5c0e6,
+    type: 3}
   m_PrefabInstance: {fileID: 1928604462}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}

@@ -696,14 +696,9 @@ MonoBehaviour:
         m_Enabled: 1
         m_Delay: 0
         m_Prefab:
-          m_FirstPerson: {fileID: 8920460444762301186, guid: 1e02d386618cc004391c01c96a594467,
-            type: 3}
           m_ThirdPerson: {fileID: 8920460444762301186, guid: 894ec4388be8419458f29f24f72a27e2,
             type: 3}
         m_Origin:
-          m_FirstPerson:
-            m_ID: 50099999
-            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
             m_Object: {fileID: 0}
@@ -768,14 +763,9 @@ MonoBehaviour:
         m_Enabled: 1
         m_Delay: 0
         m_Prefab:
-          m_FirstPerson: {fileID: 9096975292300385753, guid: ccc9cdc8c517cf149a2fa62e4170ed95,
-            type: 3}
           m_ThirdPerson: {fileID: 9096975292300385753, guid: 18ccfef35dcde274088676fa1661fcc7,
             type: 3}
         m_Origin:
-          m_FirstPerson:
-            m_ID: 50099999
-            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
             m_Object: {fileID: 0}
@@ -798,13 +788,9 @@ MonoBehaviour:
         m_Enabled: 1
         m_Delay: 0
         m_Prefab:
-          m_FirstPerson: {fileID: 0}
           m_ThirdPerson: {fileID: 496760065979123593, guid: 129606ec195f614498ac4e9d77709800,
             type: 3}
         m_Origin:
-          m_FirstPerson:
-            m_ID: 50099999
-            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
             m_Object: {fileID: 0}
@@ -919,16 +905,6 @@ MonoBehaviour:
         m_MaxCollisionCount: 100
         m_ForwardShieldSensitivity: -0.75
         m_Hitboxes:
-          m_FirstPerson:
-          - m_Collider: {fileID: 0}
-            m_DamageMultiplier: 1
-            m_ColliderObjectID: -1
-            m_MinimumYOffset: 0
-            m_MinimumZOffset: 0
-            m_RequireMovement: 0
-            m_SingleHit: 0
-            m_SurfaceImpact: {fileID: 11400000, guid: c5ab4290ae28ad645a9e5b3483fc05cb,
-              type: 2}
           m_ThirdPerson:
           - m_Collider: {fileID: 520222409483779824}
             m_DamageMultiplier: 1
@@ -1004,16 +980,6 @@ MonoBehaviour:
         m_MaxCollisionCount: 100
         m_ForwardShieldSensitivity: -0.75
         m_Hitboxes:
-          m_FirstPerson:
-          - m_Collider: {fileID: 0}
-            m_DamageMultiplier: 1
-            m_ColliderObjectID: -1
-            m_MinimumYOffset: 0
-            m_MinimumZOffset: 0
-            m_RequireMovement: 0
-            m_SingleHit: 0
-            m_SurfaceImpact: {fileID: 11400000, guid: c5ab4290ae28ad645a9e5b3483fc05cb,
-              type: 2}
           m_ThirdPerson:
           - m_Collider: {fileID: 520222409483779824}
             m_DamageMultiplier: 1
@@ -1627,14 +1593,9 @@ MonoBehaviour:
         m_Enabled: 1
         m_Delay: 0
         m_Prefab:
-          m_FirstPerson: {fileID: 496760065979123593, guid: 13f94b12e2413c74fb1fbc3abd7f0fc5,
-            type: 3}
           m_ThirdPerson: {fileID: 496760065979123593, guid: 3532041e5ce0e4740a206fe03d6a80f0,
             type: 3}
         m_Origin:
-          m_FirstPerson:
-            m_ID: 50099999
-            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
             m_Object: {fileID: 0}
@@ -1917,16 +1878,6 @@ MonoBehaviour:
         m_MaxCollisionCount: 100
         m_ForwardShieldSensitivity: -0.75
         m_Hitboxes:
-          m_FirstPerson:
-          - m_Collider: {fileID: 0}
-            m_DamageMultiplier: 1
-            m_ColliderObjectID: -1
-            m_MinimumYOffset: 0
-            m_MinimumZOffset: 0
-            m_RequireMovement: 0
-            m_SingleHit: 0
-            m_SurfaceImpact: {fileID: 11400000, guid: c5ab4290ae28ad645a9e5b3483fc05cb,
-              type: 2}
           m_ThirdPerson:
           - m_Collider: {fileID: 520222409483779824}
             m_DamageMultiplier: 1
@@ -2125,14 +2076,9 @@ MonoBehaviour:
         m_Enabled: 1
         m_Delay: 0
         m_Prefab:
-          m_FirstPerson: {fileID: 496760065979123593, guid: c1977926e3186194588e8246b701e52f,
-            type: 3}
           m_ThirdPerson: {fileID: 496760065979123593, guid: 9975217970422114f8f4ea5b4847a888,
             type: 3}
         m_Origin:
-          m_FirstPerson:
-            m_ID: 50099999
-            m_Object: {fileID: 0}
           m_ThirdPerson:
             m_ID: 50099999
             m_Object: {fileID: 0}
@@ -11805,7 +11751,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: e823cd5b5d27c0f4b8256e7c12ee3e6d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

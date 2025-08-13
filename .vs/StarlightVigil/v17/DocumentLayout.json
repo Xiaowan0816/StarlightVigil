@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "E:\\Unity Project\\StarlightVigil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|e:\\unity project\\starlightvigil\\assets\\_game\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\managers\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|e:\\unity project\\starlightvigil\\assets\\_game\\scripts\\player\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|e:\\unity project\\starlightvigil\\assets\\_game\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\utils\\managertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\utils\\managertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\combatmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\craftingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\craftingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\player\\sceneflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\player\\sceneflowmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\utils\\gamedebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|solutionrelative:assets\\_game\\scripts\\utils\\gamedebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8651743-4DB2-9D18-B5B7-AC2F7C683AC7}|Assembly-CSharp.csproj|E:\\Unity Project\\StarlightVigil\\assets\\_game\\scripts\\utils\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,45 +58,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UIManager.cs",
-              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Managers\\UIManager.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Managers\\UIManager.cs",
-              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Managers\\UIManager.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Managers\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:12:33.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Managers\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Managers\\GameManager.cs",
-              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Managers\\GameManager.cs",
-              "RelativeToolTip": "Assets\\_Game\\Scripts\\Managers\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:10:41.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Singleton.cs",
               "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Utils\\Singleton.cs",
               "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Utils\\Singleton.cs",
               "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Utils\\Singleton.cs",
               "RelativeToolTip": "Assets\\_Game\\Scripts\\Utils\\Singleton.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T18:09:53.803Z"
+              "WhenOpened": "2025-08-11T18:09:53.803Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameDebug.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Utils\\GameDebug.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Utils\\GameDebug.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Utils\\GameDebug.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Utils\\GameDebug.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:15:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManagerTest.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Utils\\ManagerTest.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Utils\\ManagerTest.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Utils\\ManagerTest.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Utils\\ManagerTest.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:10:55.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneFlowManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\SceneFlowManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\SceneFlowManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\SceneFlowManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\SceneFlowManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:02:43.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CraftingManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\CraftingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\CraftingManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\CraftingManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\CraftingManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:02:26.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\SaveManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\SaveManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:01:58.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\UIManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\UIManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\UIManager.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAkwPMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T12:01:23.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\AudioManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\AudioManager.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAQwLMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:59:49.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EconomyManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\EconomyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\EconomyManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\EconomyManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\EconomyManager.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAowJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:59:09.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CombatManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\CombatManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\CombatManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\CombatManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\CombatManager.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAUwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:58:19.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\PlayerManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\PlayerManager.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T11:57:43.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Game\\Scripts\\Player\\GameManager.cs",
+              "ToolTip": "E:\\Unity Project\\StarlightVigil\\Assets\\_Game\\Scripts\\Player\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_Game\\Scripts\\Player\\GameManager.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAUwOkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T10:12:56.632Z"
             }
           ]
         }

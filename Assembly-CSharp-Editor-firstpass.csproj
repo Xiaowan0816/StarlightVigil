@@ -96,10 +96,8 @@
     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3ComponentTypeTemplate.txt" />
     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3TypeTemplate.txt" />
     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3Type_MaterialTemplate.txt" />
-    <None Include="Assets\Plugins\Demigiant\DOTween\Editor\DOTweenUpgradeManager.dll" />
     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3ScriptableObjectTypeTemplate.txt" />
     <None Include="Assets\Plugins\Easy Save 3\Editor\ES3ClassTypeTemplate.txt" />
-    <None Include="Assets\Plugins\Demigiant\DOTween\Editor\DOTweenUpgradeManager.XML" />
     <None Include="Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.XML" />
   </ItemGroup>
   <ItemGroup>
@@ -451,6 +449,10 @@
       <HintPath>D:\Unity\2022.3.62f1c1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiEditor">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
       <Private>False</Private>
@@ -463,8 +465,28 @@
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Opsive.Shared.Editor.UIElements">
+      <HintPath>Packages\com.opsive.shared\Editor\UIElements\Opsive.Shared.Editor.UIElements.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared.Editor.Utility">
+      <HintPath>Packages\com.opsive.shared\Editor\Utility\Opsive.Shared.Editor.Utility.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
@@ -475,76 +497,48 @@
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="BehaviorDesigner.Runtime">
-      <HintPath>Assets\Behavior Designer\Runtime\BehaviorDesigner.Runtime.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="BehaviorDesigner.Editor">
-      <HintPath>Assets\Behavior Designer\Editor\BehaviorDesigner.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiEditor">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\Editor\DemiEditor.dll</HintPath>
+    <Reference Include="Opsive.Shared.Game">
+      <HintPath>Packages\com.opsive.shared\Runtime\Game\Opsive.Shared.Game.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="DOTween">
       <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="DOTweenUpgradeManager">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenUpgradeManager.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenPro">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\Editor\DOTweenProEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="DOTweenEditor">
-      <HintPath>Assets\Plugins\Demigiant\DOTween\Editor\DOTweenEditor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Opsive.Shared.Inventory">
-      <HintPath>Packages\com.opsive.shared\Runtime\Inventory\Opsive.Shared.Inventory.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Opsive.Shared.Editor.Managers">
-      <HintPath>Packages\com.opsive.shared\Editor\Managers\Opsive.Shared.Editor.Managers.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Opsive.Shared.Events">
       <HintPath>Packages\com.opsive.shared\Runtime\Events\Opsive.Shared.Events.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Opsive.Shared.Editor.UIElements">
-      <HintPath>Packages\com.opsive.shared\Editor\UIElements\Opsive.Shared.Editor.UIElements.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Opsive.Shared.Utility">
       <HintPath>Packages\com.opsive.shared\Runtime\Utility\Opsive.Shared.Utility.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Opsive.Shared.Editor.Utility">
-      <HintPath>Packages\com.opsive.shared\Editor\Utility\Opsive.Shared.Editor.Utility.dll</HintPath>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Opsive.Shared.Game">
-      <HintPath>Packages\com.opsive.shared\Runtime\Game\Opsive.Shared.Game.dll</HintPath>
+    <Reference Include="BehaviorDesigner.Runtime">
+      <HintPath>Assets\Behavior Designer\Runtime\BehaviorDesigner.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared.Editor.Managers">
+      <HintPath>Packages\com.opsive.shared\Editor\Managers\Opsive.Shared.Editor.Managers.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.TextureAssets">
+      <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Opsive.Shared.Inventory">
+      <HintPath>Packages\com.opsive.shared\Runtime\Inventory\Opsive.Shared.Inventory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="BehaviorDesigner.Editor">
+      <HintPath>Assets\Behavior Designer\Editor\BehaviorDesigner.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">
@@ -1163,12 +1157,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.InputSystem.ForUI">
+      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
@@ -1249,6 +1243,10 @@
       <Project>{C5A21E76-6901-2B16-CFC5-5DE9CBC2EC75}</Project>
       <Name>Opsive.Shared.Editor.Import</Name>
     </ProjectReference>
+    <ProjectReference Include="Opsive.Shared.Editor.csproj">
+      <Project>{09E7C788-E8ED-A95B-F7FA-3BB439C3B3EC}</Project>
+      <Name>Opsive.Shared.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Opsive.UltimateCharacterController.csproj">
       <Project>{DAEB4D29-3948-D688-5053-20300912BF75}</Project>
       <Name>Opsive.UltimateCharacterController</Name>
@@ -1260,10 +1258,6 @@
     <ProjectReference Include="Opsive.Shared.Runtime.csproj">
       <Project>{BBD1BF36-8AD7-1A42-8192-852CDCCCE996}</Project>
       <Name>Opsive.Shared.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Opsive.Shared.Editor.csproj">
-      <Project>{09E7C788-E8ED-A95B-F7FA-3BB439C3B3EC}</Project>
-      <Name>Opsive.Shared.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Opsive.UltimateCharacterController.Demo.Editor.csproj">
       <Project>{A8DB856D-936B-4101-A0D7-30F1BFA8F5A4}</Project>
